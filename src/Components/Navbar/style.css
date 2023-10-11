@@ -1,0 +1,16 @@
+nav {
+  background-color: #2c0e3a;
+  height: 100px;
+}
+.nav-logo {
+  width: 150px;
+}
+ul {
+  list-style-type: none;
+}
+.timer-icon {
+  width: 30px;
+}
+.nav-values {
+  color: #fec653;
+}
